@@ -1,12 +1,16 @@
 {
   "name": "micro-middleware-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "an example for micro-middleware helper",
   "main": "index.js",
   "scripts": {
     "start": "micro"
   },
-  "keywords": [],
+  "keywords": [
+    "micro-middleware",
+    "micro",
+    "example"
+  ],
   "author": "Mathias Karstädt <mathias.karstaedt@gmail.com> (http://mathiaskarstaedt.de/)",
   "license": "MIT",
   "devDependencies": {},
