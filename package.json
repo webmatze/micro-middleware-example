@@ -1,0 +1,19 @@
+{
+  "name": "micro-middleware-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "keywords": [],
+  "author": "Mathias Karstädt <mathias.karstaedt@gmail.com> (http://mathiaskarstaedt.de/)",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "micro": "7.0.6",
+    "micro-compress": "1.0.0",
+    "micro-cors": "0.0.1",
+    "micro-middleware": "file:///Users/webmatze/Workspace/webmatze.github.com/micro-middleware"
+  }
+}
